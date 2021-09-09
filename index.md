@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## You Belong With Me
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/YouBelongWithMe.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：You Belong With Me <br>
+作者：Tim O. Fletcher <br>
+评分：????? <br>
+![avatar](https://images-na.ssl-images-amazon.com/images/I/71sTuVRDUuL._SL1200_.jpg)
 
-### Markdown
+关键词：You Belong With Me同人；泰勒；高中nerd & 橄榄球队长；暗恋；隔窗用纸和马克笔交流；碧池女友；舞会告白
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+高中男孩泰勒暗恋校园橄榄球队长Brad，当他搬来新家以后，意外发现邻居就是Brad一家，两人的卧室隔着一条街隔窗相对。在当时智能机还不发达的年代，两人用马克笔写在白纸上写字，把纸举到窗户面前相互交流，很快发展出了一段友谊。Brad甚至开着红色的跑车带着泰勒去城里玩，然而原本美好的旅程却被Brad的女朋友Tara搞得一团糟。
 
-```markdown
-Syntax highlighted code block
+泰勒暗恋Brad, 经常假装不在房间里隔着窗户看Brad打🛩，甚至偷偷录了下来。然而Brad却有着啦啦队队长女朋友Tara。在一次Brad酒后吐真言后，泰勒知道原来Tara一直在出轨，但Brad知道父亲喜欢Tara, 就一直和她交往下去，然而两人早已貌合神离，而Brad意外撞见了泰勒的皇/片，知道了泰勒的性取向。
 
-# Header 1
-## Header 2
-### Header 3
+尽管Brad嘴上说着不在意，然而当他之后问泰勒有没有暗恋的男生时，泰勒吻了Brad却吓坏了Brad。他愤怒地表示自己是直男，两人就此坏血。然而冷静下来后Brad很快道歉，原来那天他又撞见Tara出轨心情很糟。Brad提出带泰勒去城里club玩来道歉，并帮他弄了假的ID。泰勒惊讶地发现Brad竟然带他来了个G吧，在派对上两人喝醉了，回家后湿身共浴，甚至睡在了一起。
 
-- Bulleted
-- List
+第二天Brad清醒后十分后悔，他继续否认自己是G. 泰勒怒火中烧，断绝了两人关系，然而之后他了解到了Brad家庭的阴影，理解了Brad不能出柜的苦衷。两人和好，恢复了友谊。
 
-1. Numbered
-2. List
+毕业舞会将至，Tara坚持要把Brad作为自己的舞伴。Brad穿着西装透过窗用写了字的纸问泰勒参不参加，泰勒说自己还没毕业不参加了。看着Brad离去的背影，泰勒突然决定要把握这次机会。在舞会上，泰勒也穿上西装到场了，他拿出写了”I LOVE YOU”的白纸，对Brad进行了无声的表白。Tara怒火中烧，却被Brad告知了分手。Brad也拿出了他藏在上衣里的纸，上面也写了”I LOVE YOU“. 这场无声的告白就是两人友情和爱情的结晶。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/YouBelongWithMe.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*小说里泰勒斯和水果姐都出现了[不是Bad Blood相关]*
